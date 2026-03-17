@@ -1,2 +1,1 @@
-# Enterprise-Utility-Lakehouse-Pipeline1
-Enterprise Utility Lakehouse Pipeline using PySpark, Bronze/Silver/Gold Layers, and AI-Ready Data Modeling
+A PySpark-based enterprise utility data engineering project that simulates Bronze, Silver, and Gold Lakehouse processing for customer, meter, outage, weather, and SAP FICO-style billing data, with KPI generation and AI-ready semantic preparation.
