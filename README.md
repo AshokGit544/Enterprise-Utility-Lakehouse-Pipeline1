@@ -178,21 +178,5 @@ This GitHub demo is built in Google Colab using PySpark for portability, but the
 - AI-ready data preparation for semantic retrieval and LLM use cases
 
 
-
-## How this project reflects Azure Databricks skills
-
-Although this demo runs in Google Colab for easy access, the project is designed using patterns commonly used in Azure Databricks:
-
-- PySpark-based distributed processing
-- Bronze, Silver, and Gold Lakehouse architecture
-- enterprise-scale multi-source ingestion
-- data quality and standardization
-- integrated business views using common keys
-- analytics-ready and AI-ready dataset creation
-
-This reflects how large utility and enterprise datasets are processed in Databricks-based environments.
-
-
-
 ## Author
 Ashok Ajmeera
